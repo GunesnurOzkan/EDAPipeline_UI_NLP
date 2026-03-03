@@ -6,6 +6,7 @@ setup.py
 src/edapipeline/__init__.py
 src/edapipeline/__version__.py
 src/edapipeline/core.py
+src/edapipeline/nlp_insight.py
 src/edapipeline/utils.py
 src/edapipeline.egg-info/PKG-INFO
 src/edapipeline.egg-info/SOURCES.txt
